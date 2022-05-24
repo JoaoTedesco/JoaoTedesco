@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaoTedesco
 - 👀 I’m interested in the financial market
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python and working on improving back office processes using codes
 - 💞️ I’m looking to collaborate on any operational project
 - 📫 How to reach me: João Tedesco on LinkedIn
 
